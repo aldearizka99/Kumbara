@@ -36,6 +36,10 @@ Table 1. Burn severity levels obtained calculating dNBR, proposed by USGS.
 The NBR index results were classified to show fire severity based on thresholds from <-0.25 to >0.66 (GSP at Humboldt State University).
 The dNBR index was obtained by processing the NBR with the time span before the fire (pre-fire) and after the fire (post-fire) in 2015, 2019, 2021, and 2023.
 
+the area of fire severity is obtained based on the results of dNBR processing in accordance with the classification contained in table 2. Fire area calculated in 2015, 2019, 2021, and 2023 dNBR processing.
+
+![otpsot](https://raw.githubusercontent.com/aldearizka99/Luas-Kebakaran-dNBR-Kalimantan-Tengah/main/Luas%20Kebakaran.png)
+
 
 ## The Distribution of Fire Hotspots
 The distribution of hotspots is obtained from the import process of Fire Information for Resource Management System (FIRMS) data on MODIS images using the T21 band and confidence level band. Hotspot band T21 is a brightness temperature band that shows the level of brightness of the temperature at the recorded hotspot with Kelvin units and has been converted to Celsius. Hotspot band confidence level shows the level of confidence in the recorded hotspots that actually occur in the field with a scale of 0% to 100%.
